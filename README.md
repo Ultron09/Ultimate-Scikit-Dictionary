@@ -518,15 +518,6 @@ Read the full license [here](LICENSE).
 
 ---
 
-## Acknowledgments & Cosmic Shout-outs
-
-- **The Eternal Sage of Meta-Reason** for etching the scrolls of symbolic reasoning.  
-- **Tensor Titans** at OpenCompute for forging the GPUs that let us dream beyond silicon.  
-- Community Contributors, early adopters, and coders brave enough to test the alpha on a potato-grade laptop.  
-- And **YOU, Aspiring Demigod**, for daring to think bigger than reality itself.  
-
----
-
 *“And remember, dear reader: you are not simply writing code; you are scripting the next chapter of consciousness. Use this power wisely.”*  
 — The Supreme Architect of AGI  
 
