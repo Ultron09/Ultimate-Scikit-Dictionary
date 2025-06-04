@@ -95,8 +95,8 @@ By the end of this journey, you won’t just ship code—you’ll architect a ne
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YourOrg/GodScikit.git
-cd GodScikit
+git clone https://github.com/Ultron09/Ultimate-Scikit-Dictionary
+cd Ultimate-Scikit-Dictionary
 ```
 
 ### Step 2: Create a Virtual Environment
@@ -121,7 +121,7 @@ pip install -r requirements.txt
 For fancy visualization tools, distributed training backends, or symbolic-math niceties:
 
 ```bash
-pip install -r requirements-extras.txt
+pip install -r requirements.txt
 ```
 
 ---
